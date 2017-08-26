@@ -1,0 +1,48 @@
+.user-show{
+    margin:5px;
+    padding: 5px;
+    background: lightgray;
+}
+.col-lg-4 , .col-md-6{
+    padding:0px;
+}
+
+body{
+    background: #dedede;
+}
+
+.nav-item{
+    padding:0px 5px 0px 5px;
+}
+
+#setCount{
+    width: 110px;
+}
+
+.modal-body .form-control{
+    margin-bottom: 5px;
+}
+
+html, body{
+    height: 100vh;
+}
+
+td{
+    word-break: break-all;
+}
+
+.editUser{
+    word-break: keep-all;
+}
+
+
+.container{
+    padding-top:25px;
+    margin-top: 15px;
+    background: white;
+    min-height: 100%;
+}
+
+.bg-dark{
+    background: rgb(33, 37, 41)!important;
+}
